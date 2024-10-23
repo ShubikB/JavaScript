@@ -75,3 +75,25 @@ console.log(++a) // using a prefix incrmement
 
 console.log( 4+5 ) // can perform arthemetics
 
+
+
+// ========== Comparisons
+
+// ==  [equals to]
+// === [strict equals]
+const v1 = 5;
+const v2 = "5";
+// const result = v1 === v2;
+
+
+
+// >, >= [less than, less than or equals to]
+// <, <= [greater than or equals to]
+// const result = v1 <= v2;
+// console.log(result);
+
+// Logical Operators
+// && [and]
+// || [or]
+// ! [not]
+// : (Ternary) [short hand if]
