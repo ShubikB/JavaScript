@@ -97,3 +97,31 @@ const v2 = "5";
 // || [or]
 // ! [not]
 // : (Ternary) [short hand if]
+
+
+
+// ======= Data type
+//// Primitives
+
+//number
+// let a = 5;
+// let b = a;
+// a = 10;
+// console.log(a);
+// console.log(b);
+
+//string
+// const value = `Prem acharya`; //'', ``
+// console.log(typeof value);
+
+// Boolean
+// const value = true; // false
+// console.log(typeof value);
+
+// null
+// const value = null; // false
+// console.log(typeof value);
+
+//undefiend
+// const value = undefined; // false
+// console.log(typeof value);
