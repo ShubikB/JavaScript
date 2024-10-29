@@ -16,7 +16,7 @@ console.log("The two numbers are " + num1 + " and " + num2 + "." );
 console.log("And the sum, difference, product and Quotient are " + sum + ", " + difference + ", " +  product + " and " + quotient + " respectively." );
 
 
-// Wap to find the largest number between the two numbers
+// Wap to find the largest number between the two  random numbers
 
 let x = 305676;
 let y = 306654;
