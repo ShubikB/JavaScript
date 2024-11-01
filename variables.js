@@ -36,17 +36,15 @@ console.log("He is Married: " + isMarried);
 
 console.log(typeof isMale);
 
-
-
 // null
 let qtyOfApples = null;
 
 console.log(typeof qtyOfApples);
 
 
-
 // symbol
 
+let id = Symbol("123")
 
 // Undefined:
 
@@ -55,6 +53,34 @@ let children;
 console.log(children);
 
 console.log(typeof children);
+
+
+// Refrence ( non  primitive)
+
+// Array
+
+let  vehicle = ["car", "bike", "train", "plane"];
+
+
+// Object
+
+let carObj = {
+     brand: "maruti",
+     mfd: 2012,
+
+}
+
+// Function
+
+const helloFunction = function () {
+    console.log("Hello, there");
+}
+helloFunction()
+
+
+
+
+
 
 
 
